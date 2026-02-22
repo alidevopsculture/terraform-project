@@ -220,6 +220,8 @@ terraform-ec2-provision/
 ## 👤 Author
 
 **Ali** - Terraform Learning Project
+> 🔗 LinkedIn: [www.linkedin.com/in/alimurtazadevops](https://www.linkedin.com/in/alimurtazadevops)
+
 
 ---
 
